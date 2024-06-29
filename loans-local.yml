@@ -1,2 +1,9 @@
 build:
   version: 0.0.1-local-snapshot
+
+loans:
+  email: '{cipher}cc9aeb42c35e52f90321622fbe5196df8bc73606e96718214c9543b6a98189962c1644c2d526efba83aec5b651578e81'
+  support:
+    contact:
+      - (777) 555-1234
+      - (777) 523-1345

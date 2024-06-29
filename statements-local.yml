@@ -1,2 +1,9 @@
 build:
   version: 0.0.1-local-snapshot
+
+statements:
+  email: '{cipher}78ad96e0941a8c4ec26d56f95421d02d4bde6fd7db8c4f885699f15eaeec58989505858a8e7705fabe8a4f84fd081045'
+  support:
+    contact:
+      - (555) 555-1234
+      - (555) 523-1345

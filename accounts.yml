@@ -1,2 +1,9 @@
 build:
   version: 0.0.1
+
+accounts:
+  email: '{cipher}981a37d9310b7d04c7eb1ace5d4d99addb8266b0892629d42b551261537066f36126365660a8d6e4be90a6fe46221502'
+  support:
+    contact:
+      - (555) 555-1234
+      - (555) 523-1345
