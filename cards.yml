@@ -7,6 +7,3 @@ cards:
     contact:
       - (555) 555-1235
       - (555) 523-1346
-spring:
-    profiles:
-      active: dev
