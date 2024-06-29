@@ -1,9 +1,9 @@
 build:
-  version: 0.0.1-dev-snapshot-skd
+  version: 0.0.1-dev-snapshot
 
 cards:
   email: '{cipher}2ff85b0ad2cb8279c102d6fbff440ec1387ca6b7eb72465b1f1c6d153d92485fcbb6019fce1ecfd9fb46270afde39d1a'
   support:
     contact:
-      - (666) 555-1235
+      - (666) 555-1100
       - (666) 523-1346
