@@ -1,5 +1,5 @@
 build:
-  version: 0.0.1-dev-snapshot
+  version: 0.0.1-dev-snapshot-skd
 
 cards:
   email: '{cipher}2ff85b0ad2cb8279c102d6fbff440ec1387ca6b7eb72465b1f1c6d153d92485fcbb6019fce1ecfd9fb46270afde39d1a'
